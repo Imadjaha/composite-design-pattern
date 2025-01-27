@@ -29,6 +29,9 @@ bin/
 .idea/
 .idea 
 
+.gitignore
+composite-design-pattern.iml
+composite.iml
 
 ### Mac OS ###
 .DS_Store

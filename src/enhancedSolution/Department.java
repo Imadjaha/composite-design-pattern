@@ -15,7 +15,7 @@ public class Department implements OrganisationUnit{
         organisationUnits.add(organisationUnit);
     }
 
-
+    @Override
     public double calculateTotalSalary(){
         return organisationUnits.stream().mapToDouble(OrganisationUnit::calculateTotalSalary).sum();
     }
