@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Composite Design Pattern README</title>
+
 </head>
 <body>
 
